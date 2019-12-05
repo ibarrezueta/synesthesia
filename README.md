@@ -19,12 +19,15 @@ project. If you're using a mac, you will need to created a connection from
 processing to ableton.
 
 Start by opening Audio MIDI Setup
+![](images/instruction1.png)
 
 On the top bar, click window and chose `show MIDI studio`
 When you have that, double click on IAC Driver and check the box that says
 "Device is online". In the ports section, click on the plus button and
 change the name to whatever you'd like. You can now close out of the window
 and open Ableton.
+![](images/instruction2.png)
+![](images/instruction3.png)
 
 In your midi track, there should be a MIDI to menu bar. If you click that,
 you should see the name of the port that you just created. That is how you
