@@ -2,6 +2,8 @@
 
 Synesthesia leverages `themidibus`, a processing library that allows users to use midi input in their code.
 
+![](images/dots.png)
+![](images/triangles.png)
 
 ## How to use
 
