@@ -1,6 +1,7 @@
 # Synesthesia
 
 Synesthesia leverages `themidibus`, a processing library that allows users to use midi input in their code.
+Using that midi, Synesthesia produces vibrantly colorful images representing midi inputs from midi files or live midi.
 
 ![](images/dots.png)
 ![](images/triangles.png)
